@@ -1,0 +1,23 @@
+.card {
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.card img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card .info {
+    padding: 10px;
+}
+.card button {
+    cursor: pointer;
+    padding: 12px;
+    width: 100%;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+}
